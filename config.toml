@@ -1,0 +1,49 @@
+baseURL = "https://myname.github.io/global-freshwater-workshop/"
+languageCode = 'en-us'
+title = "Global Freshwater Systems Science Workshop"
+theme = "hugo-winston-theme"
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = "people"
+    identifier = "people"
+    weight = 2
+    url = "/people/"
+  [[menu.main]]
+    name = "workshops"
+    identifier = "workshops"
+    weight = 3
+    url = "/workshops/"
+  [[menu.main]]
+    name = "contact"
+    identifier = "contact"
+    weight = 4
+    url = "/contact/"
+
+[params]
+  google_analytics_id = ""
+  twitter_handle = "@xander_huggins"
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = false
+  showIntroContentOnHomepage = true
+  showPostsOnHomepage = false
+  usePaginationOnHomepage = false
+  sortPostsByDateOldestFirst = false
+  addDot = false
+  addFrame = true
+  highlightColor = '#001852'
+  baseColor = "#ffffff"
+  baseOffsetColor = "#ADC5FF"
+  headingColor = "#001852"
+  textColor = "#001852"
+  dotColor = "#ADC5FF"
+  enableGoogleFonts = true 
+  googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
+  fontFamilyHeading = "Poppins"
+  fontFamilyParagraph = "Helvetica"
+  fontFamilyMonospace = "monospace"

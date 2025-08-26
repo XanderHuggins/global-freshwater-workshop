@@ -1,0 +1,14 @@
+{
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/xander_huggins",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/XanderHuggins/global-freshwater-workshop",
+      "image": "images/social/github.svg"
+    }
+  ]
+}
