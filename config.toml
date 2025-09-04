@@ -1,7 +1,10 @@
-baseURL = "https://xanderhuggins.github.io/global-freshwater-workshop/"
+baseURL = "https://freshwatersystemsworkshop.org/"
 languageCode = 'en-us'
 title = "Global Freshwater Systems Science Workshop"
 theme = "hugo-winston-theme"
+
+# Recommended for production so all links use the full domain:
+canonifyURLs = true
 
 [menu]
   [[menu.main]]
