@@ -153,5 +153,21 @@
     "email": "",
     "website": "https://www.uva.nl/en/profile/k/r/e.h.krueger/e.h.krueger.html",
     "cv": ""
+  },   
+  {
+    "name": "Vajira Lasantha",
+    "role": "PhD candidate at Stockholm Resilience Centre",
+    "image": "images/people/vajira.jpg",
+    "email": "",
+    "website": "https://www.stockholmresilience.org/meet-our-team/staff/2024-04-17-lasantha.html",
+    "cv": ""
+  },   
+  {
+    "name": "David Lindao Caizaguano",
+    "role": "PhD student at Stockholm University",
+    "image": "images/people/david.jpg",
+    "email": "",
+    "website": "https://www.su.se/english/profiles/dali6613-1.718696",
+    "cv": ""
   }
 ]
