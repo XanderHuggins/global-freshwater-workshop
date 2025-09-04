@@ -1,4 +1,4 @@
-baseURL = "https://myname.github.io/global-freshwater-workshop/"
+baseURL = "https://xanderhuggins.github.io/global-freshwater-workshop/"
 languageCode = 'en-us'
 title = "Global Freshwater Systems Science Workshop"
 theme = "hugo-winston-theme"
