@@ -1,0 +1,31 @@
+{{ define "main" }}
+<div class="container page-people">
+  <section class="people-grid">
+    {{ $people := slice }}
+    {{ range .Site.Data.people }}
+      {{ $people = $people | append (dict "item" . "key" (lower .name)) }}
+    {{ end }}
+
+    {{ range $p := sort $people "key" }}
+      {{ $person := $p.item }}
+      <article class="person">
+        <img src="{{ $person.image | relURL }}" alt="{{ $person.name }}" class="person-photo">
+
+        <h5 class="person-name">{{ $person.name }}</h5>
+
+        {{ with $person.lead }}
+          <p class="person-lead"><strong>{{ . }}</strong></p>
+        {{ end }}
+
+        <p class="person-role">{{ $person.role }}</p>
+
+        <div class="person-links">
+          {{ with $person.email }}<a href="mailto:{{ . }}" aria-label="email">📧</a>{{ end }}
+          {{ with $person.website }}<a href="{{ . }}" target="_blank" rel="noopener" aria-label="website">🌐</a>{{ end }}
+          {{ with $person.linkedin }}<a href="{{ . }}" target="_blank" rel="noopener" aria-label="LinkedIn">in</a>{{ end }}
+        </div>
+      </article>
+    {{ end }}
+  </section>
+</div>
+{{ end }}

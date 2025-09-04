@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>homepage on Global Freshwater Systems Science Workshop</title>
+    <link>https://myname.github.io/global-freshwater-workshop/</link>
+    <description>Recent content in homepage on Global Freshwater Systems Science Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://myname.github.io/global-freshwater-workshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://myname.github.io/global-freshwater-workshop/people/people/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://myname.github.io/global-freshwater-workshop/people/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

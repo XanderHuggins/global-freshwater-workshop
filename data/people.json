@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Xander Huggins",
+    "lead": "Co-lead",
+    "role": "Postdoc at UBC/Princeton",
+    "image": "images/people/xander.JPG",
+    "email": "xander.huggins@ubc.ca",
+    "linkedin": "",
+    "website": "https://xanderhuggins.github.io/"
+  },
+  {
+    "name": "Vili Virkki",
+    "lead": "Co-lead",
+    "role": "Postdoc at University of Eastern Finland",
+    "image": "images/people/vili.JPG",
+    "email": "vilivirkki@uef.fi",
+    "website": "https://uefconnect.uef.fi/en/vili.virkki/",
+    "cv": ""
+  },
+  {
+    "name": "Ingo Fetzer",
+    "role": "Researcher at Stockholm Resilience Centre",
+    "image": "images/people/ingo.jpg",
+    "email": "",
+    "website": "https://www.stockholmresilience.org/meet-our-team/staff/2012-09-05-fetzer.html",
+    "cv": ""
+  },
+  {
+    "name": "Lan Wang-Erlandsson",
+    "role": "Researcher at Stockholm Resilience Centre",
+    "image": "images/people/lan.jpg",
+    "email": "",
+    "website": "https://www.stockholmresilience.org/meet-our-team/staff/2013-10-23-wang-erlandsson.html",
+    "cv": ""
+  },
+  {
+    "name": "Bhattarabhop Viriyaroj",
+    "role": "PhD student at Aalto University",
+    "image": "images/people/best.jpg",
+    "email": "",
+    "website": "",
+    "cv": ""
+  },
+  {
+    "name": "Ronit Bohra",
+    "role": "PhD student at University of Eastern Finland",
+    "image": "images/people/ronit.jpg",
+    "email": "",
+    "website": "https://uefconnect.uef.fi/en/ronit.bohra/",
+    "cv": ""
+  },
+  {
+    "name": "Petr Vesnovskii",
+    "role": "PhD student at Stockholm Resilience Centre",
+    "image": "images/people/petr.png",
+    "email": "",
+    "website": "https://www.stockholmresilience.org/meet-our-team/staff/2024-04-23-vesnovskii.html",
+    "cv": ""
+  },
+  {
+    "name": "Chelsea Kaandorp",
+    "role": "Postdoc at the Anthropocene Lab",
+    "image": "images/people/chelsea.png",
+    "email": "",
+    "website": "https://www.anthropocenelab.se/profile/chelsea-kaandorp/",
+    "cv": ""
+  },
+  {
+    "name": "Elina Paavonen",
+    "role": "PhD student at University of Eastern Finland",
+    "image": "images/people/elina.jpg",
+    "email": "",
+    "website": "https://uefconnect.uef.fi/en/elina.paavonen/",
+    "cv": ""
+  }, 
+  {
+    "name": "Fernando Jaramillo",
+    "role": "Associate Professor, Docent at Stockholm University",
+    "image": "images/people/fernando.jpg",
+    "email": "",
+    "website": "https://www.su.se/english/profiles/fjara-1.188044",
+    "cv": ""
+  }, 
+  {
+    "name": "Matti Kummu",
+    "role": "Professor at Aalto University",
+    "image": "images/people/matti.jpeg",
+    "email": "",
+    "website": "https://www.aalto.fi/en/people/matti-kummu",
+    "cv": ""
+  },
+  {
+    "name": "Dieter Gerten",
+    "role": "Professor at Humbold University of Berlin; Working Group Leader a PIK",
+    "image": "images/people/dieter.jpg",
+    "email": "",
+    "website": "https://www.pik-potsdam.de/members/gerten/homepage",
+    "cv": ""
+  },
+  {
+    "name": "Heindriken Dahlmann",
+    "role": "PhD student at IRI THESys",
+    "image": "images/people/heindriken.jpg",
+    "email": "",
+    "website": "https://www.iri-thesys.org/people-pages/heindriken-dahlmann/",
+    "cv": ""
+  }, 
+  {
+    "name": "Miina Porkka",
+    "role": "Associate Professor at University of Eastern Finland",
+    "image": "images/people/miina.jpg",
+    "email": "",
+    "website": "https://uefconnect.uef.fi/en/miina.porkka/",
+    "cv": ""
+  }, 
+  {
+    "name": "Romi Lotcheris",
+    "role": "PhD student at Stockholm Resilience Centre",
+    "image": "images/people/romi.jpg",
+    "email": "",
+    "website": "https://romilotcheris.com/",
+    "cv": ""
+  },
+
+  {
+    "name": "Simon Fahrländer",
+    "role": "PhD student at Potsdam Institute for Climate Impact Research",
+    "image": "images/people/simon.jpeg",
+    "email": "",
+    "website": "https://www.pik-potsdam.de/members/simonfa",
+    "cv": ""
+  }, 
+  {
+    "name": "Lauren Seaby Andersen",
+    "role": "Senior Scientist at Potsdam Institute for Climate Impact Research",
+    "image": "images/people/lauren.jpg",
+    "email": "",
+    "website": "https://www.pik-potsdam.de/members/seaby/homepage",
+    "cv": ""
+  },  
+  {
+    "name": "Juan Rocha",
+    "role": "Researcher at Stockholm Resilience Centre",
+    "image": "images/people/juan.jpg",
+    "email": "",
+    "website": "https://www.juanrocha.se/",
+    "cv": ""
+  },   
+  {
+    "name": "Elisabeth Krueger",
+    "role": "Assistant Professor at University of Amsterdam",
+    "image": "images/people/elisabeth.jpg",
+    "email": "",
+    "website": "https://www.uva.nl/en/profile/k/r/e.h.krueger/e.h.krueger.html",
+    "cv": ""
+  }
+]
