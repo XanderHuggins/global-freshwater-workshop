@@ -2,13 +2,13 @@
 title: "workshops to date"
 ---
 
-We have convened five workshops to date. Hyperlinks below will take you to a corresponding workshop report. 
+We have convened five workshops so far. Hyperlinks below will take you to a corresponding workshop report, where available. 
 
-![workshop timeline](/images/timeline.jpg)
+1: May 2023 | 2: November 2023 | 3: June 2024 | [**4: January 2025**](https://raw.githubusercontent.com/XanderHuggins/global-freshwater-workshop/main/static/pdfs/GFSSW_Jan2025.pdf) | [**5: June 2025**](https://raw.githubusercontent.com/XanderHuggins/global-freshwater-workshop/main/static/pdfs/GFSSW_June2025.pdf
+)
 
-1. May 2023
-2. November 2023
-3. June 2024
-4. January 2025 - [[report]](https://docs.google.com/document/d/1MaZmFKsWtRYgtyOWLPp0BLk-_BGlpowNUd-y3NgIY7I/edit?usp=sharing)
-5. June 2025
+![workshop timeline](timeline.jpg)
+
+
+
 
