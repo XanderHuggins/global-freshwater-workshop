@@ -1,0 +1,17 @@
+{{ define "body_classes" }}page-default-single{{ end }}
+
+{{ define "main" }}
+{{ $showTitle := ne .Params.showtitle false }}
+{{ if or $showTitle .Params.image }}
+<div class="intro">
+  {{ if $showTitle }}<h1>{{ .Title }}{{ if .Site.Params.addDot }}<span class="dot">.</span>{{ end }}</h1>{{ end }}
+  {{ if .Params.image }}
+  <img alt="{{.Params.imageAltAttribute | default "Article hero image"}}" src="{{ .Params.image | relURL }}" />
+  {{ end }}
+</div>
+{{ end }}
+
+<div class="content">
+  {{ .Content }}
+</div>
+{{ end }}

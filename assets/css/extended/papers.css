@@ -1,0 +1,11 @@
+/* Highlight box: add {.highlight-box} on the line under a paragraph in any page, including the home page */
+.content .highlight-box,
+.intro-content .highlight-box {
+  background: #eef3ff;                          /* light tint of the site's light blue */
+  border: 2px solid var(--base-offset-color);   /* baseOffsetColor in config.toml */
+  border-radius: 8px;
+  padding: 14px 18px;
+}
+.highlight-box a {
+  text-decoration: underline;                   /* the home page doesn't underline links by default */
+}

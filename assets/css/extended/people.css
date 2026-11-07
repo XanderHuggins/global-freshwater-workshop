@@ -1,0 +1,48 @@
+/* People page: grid of round photos with name, role and links */
+.page-people .people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  justify-items: center;
+}
+.page-people .person {
+  text-align: center;
+  max-width: 240px;
+}
+.page-people .person-photo {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 0.5rem;
+}
+.page-people .person-name {
+  margin: 0.25rem 0;
+  font-weight: 700;
+}
+.page-people .person-lead {
+  margin: 0;
+  font-weight: 700;
+}
+.page-people .person-role {
+  margin: 0.15rem 0 0.35rem;
+  font-size: 0.95rem;
+  opacity: 0.85;
+}
+.page-people .person-links {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+}
+.page-people .person-links a {
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+/* Optional class for a centred image at 60% width */
+.goals-img {
+  max-width: 60%;
+  height: auto;
+  display: block;
+  margin: 2rem auto;
+}

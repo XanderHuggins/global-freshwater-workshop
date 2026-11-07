@@ -1,7 +1,10 @@
 baseURL = "https://freshwatersystemsworkshop.org/"
-languageCode = 'en-us'
-title = "Global Freshwater Systems Science Workshop"
+locale = "en-US"
+title = "Freshwater Systems Science Workshop"
 theme = "hugo-winston-theme"
+
+# Build into the docs folder, which GitHub Pages publishes (Settings > Pages: branch main, folder /docs)
+publishDir = "docs"
 
 # Recommended for production so all links use the full domain:
 canonifyURLs = true
@@ -23,9 +26,14 @@ canonifyURLs = true
     weight = 3
     url = "/workshops/"
   [[menu.main]]
+    name = "papers"
+    identifier = "papers"
+    weight = 4
+    url = "/papers/"
+  [[menu.main]]
     name = "contact"
     identifier = "contact"
-    weight = 4
+    weight = 5
     url = "/contact/"
 
 [params]
@@ -50,3 +58,10 @@ canonifyURLs = true
   fontFamilyHeading = "Poppins"
   fontFamilyParagraph = "Helvetica"
   fontFamilyMonospace = "monospace"
+
+[minify]
+  minifyOutput = true
+
+# Lets a page put {.class-name} on the line under a paragraph or list to style it (used for the highlight box)
+[markup.goldmark.parser.attribute]
+  block = true

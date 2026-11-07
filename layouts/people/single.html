@@ -2,7 +2,7 @@
 <div class="container page-people">
   <section class="people-grid">
     {{ $people := slice }}
-    {{ range .Site.Data.people }}
+    {{ range hugo.Data.people }}
       {{ $people = $people | append (dict "item" . "key" (lower .name)) }}
     {{ end }}
 

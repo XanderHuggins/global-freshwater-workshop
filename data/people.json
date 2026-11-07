@@ -2,9 +2,9 @@
   {
     "name": "Xander Huggins",
     "lead": "Co-lead",
-    "role": "Postdoc at UBC/Princeton",
+    "role": "Assistant Professor at University of Glasgow",
     "image": "images/people/xander.JPG",
-    "email": "xander.huggins@ubc.ca",
+    "email": "xander.huggins@glasgow.ac.uk",
     "linkedin": "",
     "website": "https://xanderhuggins.github.io/"
   },
@@ -15,6 +15,14 @@
     "image": "images/people/vili.JPG",
     "email": "vilivirkki@uef.fi",
     "website": "https://uefconnect.uef.fi/en/vili.virkki/",
+    "cv": ""
+  },
+  {
+    "name": "Ashvath Kunadi",
+    "role": "Postdoctoral Researcher at Aalto University",
+    "image": "images/people/ashvath.jpg",
+    "email": "",
+    "website": "https://www.aalto.fi/en/people/ashvath-singh-kunadi",
     "cv": ""
   },
   {
@@ -59,10 +67,10 @@
   },
   {
     "name": "Chelsea Kaandorp",
-    "role": "Postdoc at the Anthropocene Lab",
+    "role": "Postdoctoral Researcher at Vrije Universiteit Amsterdam",
     "image": "images/people/chelsea.png",
     "email": "",
-    "website": "https://www.anthropocenelab.se/profile/chelsea-kaandorp/",
+    "website": "https://vu.nl/en/research/scientists/chelsea-kaandorp",
     "cv": ""
   },
   {
